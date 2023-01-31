@@ -6,4 +6,4 @@ C, JS
 ### contact via e-mail
 jjj4120@gmail.com
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=자기백준아이디)](https://solved.ac/nmmn100/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nmmn100)](https://solved.ac/nmmn100/)
