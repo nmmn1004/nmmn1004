@@ -1,1 +1,1 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=nmmnfma&fontAlign=70&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=nmmn&fontAlign=70&fontAlignY=40&color=gradient)
