@@ -19,7 +19,7 @@
 -------------
 ### Featured projects
 
-
+-------------
 ![nmmn1004's github stats](https://github-readme-stats.vercel.app/api?username=nmmn1004&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmmn1004&show_icons=true&theme=tokyonight)
