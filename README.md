@@ -2,9 +2,9 @@
 
 ### About me
 -------------
-- Sungkonghoe Univ. of korea, DIVISION OF INFORMATION TECHNOLOGY SOFTWARE ENGINEERING + COMPUTER SCIENCE & ENGINEERING
-- Community leader @ S.owl 11th
-- Community member @ 
+- 📖 Sungkonghoe Univ. of korea, DIVISION OF INFORMATION TECHNOLOGY SOFTWARE ENGINEERING + COMPUTER SCIENCE & ENGINEERING
+- 👥 Community leader @ S.owl 11th
+- 👥 Community member @ 
 
 ### Stacks
 #### Collaboration & Tools
