@@ -1,6 +1,10 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=nmmn&fontAlign=70&fontAlignY=40&color=gradient)
 
 ### About me
+-------------
+- Sungkonghoe Univ. of korea, DIVISION OF INFORMATION TECHNOLOGY SOFTWARE ENGINEERING + COMPUTER SCIENCE & ENGINEERING
+- Community leader @ S.owl 11th
+- Community member @ 
 
 ### Stacks
 #### Collaboration & Tools
@@ -13,6 +17,8 @@
 ### Featured projects
 
 ![nmmn1004's github stats](https://github-readme-stats.vercel.app/api?username=nmmn1004&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmmn1004&show_icons=true&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nmmn100)](https://solved.ac/nmmn100/)
 
