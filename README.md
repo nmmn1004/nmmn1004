@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=nmmn&fontAlign=70&fontAlignY=40&color=gradient)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=nmmn&color=0:ee9ca7,100:ffdde1)
 
 -------------
 ### About me
@@ -26,4 +26,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nmmn100)](https://solved.ac/nmmn100/)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:ee9ca7,100:ffdde1)
