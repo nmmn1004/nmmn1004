@@ -18,7 +18,7 @@
 
 -------------
 ### Certificate
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/03953d4f-435c-4093-af0f-c1e494b30ad1" /> N1
+- <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/03953d4f-435c-4093-af0f-c1e494b30ad1"/> N1 (2025.1.10)
 
 
 -------------
