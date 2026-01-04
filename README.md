@@ -17,6 +17,11 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logColor=white">
 
 -------------
+### Certificate
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/03953d4f-435c-4093-af0f-c1e494b30ad1" /> N1
+
+
+-------------
 ### Featured projects
 
 -------------
