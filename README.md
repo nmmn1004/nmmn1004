@@ -22,7 +22,15 @@
 
 
 -------------
-### Featured projects
+### 🏆 Featured Projects
+
+#### [TokTory - Backend](https://github.com/nmmn1004/2026_TRIPLES_TEAM_2_BE) ![Backend](https://img.shields.io/badge/Backend-8A2BE2?style=flat-square)
+> **2026 TRIPLES TEAM 2** | Spring Boot API for AOS
+> 안드로이드 클라이언트를 위한 RESTful API 서버 구축 및 비즈니스 로직 개발
+
+#### [SKHU-LINK](https://github.com/SKHU-LINK) ![Organization](https://img.shields.io/badge/Organization-8A2BE2?style=flat-square)
+> **성공회대학교 링크(LINK)** | Campus Networking Platform
+> 성공회대학교 학내 구성원의 원활한 소통을 지원하는 통합 연결 플랫폼
 
 -------------
 ![nmmn1004's github stats](https://github-readme-stats.vercel.app/api?username=nmmn1004&show_icons=true&theme=tokyonight)
