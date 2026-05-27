@@ -4,8 +4,8 @@
 ### About me
 
 - 📖 Sungkonghoe Univ. of korea, DIVISION OF INFORMATION TECHNOLOGY SOFTWARE ENGINEERING + COMPUTER SCIENCE & ENGINEERING
-- 👥 Community leader @ S.owl 11th
-- 👥 Community member @
+- 👥 Community leader @ S.owl 11th(2023)
+- 👥 Community member @ GDGoC 4th(2025.07-2026.06)
 
 -------------
 ### Stacks
